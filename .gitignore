@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.aux
+*.log
+*.out
+*.synctex.gz
+*/rendered/
+*/brief_render/
+Results/native_wolfram_results.json
+Results/wolfram_trajectory.png

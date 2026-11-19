@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this prototype, cite its author and the associated barycentric-number-design manuscript."
+title: "Barycentric Observers under Changing Graph Symmetries"
+authors:
+  - family-names: Vlachopulos
+    given-names: Petr
+version: 1.0.0
+date-released: 2026-11-10
+type: software
+abstract: "Exact finite computational experiments on symmetry-invariant observers of interacting graph and ternary-hypergraph rewrites, with computer-assisted motif minimality classification."
