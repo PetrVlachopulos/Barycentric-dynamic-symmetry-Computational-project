@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Executable finite certificate for dynamically sufficient symmetry observers.
 4-vertex binary attributed graphs + 3-uniform binary attributed hypergraphs.
-No dependence on Wolfram Language; all observables are exact integer vectors.
 """
 from __future__ import annotations
 import itertools, collections, math, csv, json, hashlib, argparse
