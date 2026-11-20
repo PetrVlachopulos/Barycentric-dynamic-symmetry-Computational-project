@@ -1,0 +1,235 @@
+{
+  "graph_microstates": 1024,
+  "graph_orbits": 90,
+  "hyper_microstates": 256,
+  "hyper_orbits": 35,
+  "graph_levels": {
+    "1": {
+      "classes": 5,
+      "bad_classes": 4,
+      "exact": false
+    },
+    "2": {
+      "classes": 66,
+      "bad_classes": 15,
+      "exact": false
+    },
+    "3": {
+      "classes": 90,
+      "bad_classes": 0,
+      "exact": true
+    },
+    "selected": {
+      "classes": 86,
+      "bad_classes": 0,
+      "exact": true
+    }
+  },
+  "hyper_levels": {
+    "1": {
+      "classes": 5,
+      "bad_classes": 3,
+      "exact": false
+    },
+    "2": {
+      "classes": 5,
+      "bad_classes": 3,
+      "exact": false
+    },
+    "3": {
+      "classes": 35,
+      "bad_classes": 0,
+      "exact": true
+    }
+  },
+  "complement_variant": {
+    "classes": 86,
+    "exact": true,
+    "complement_alone_exact": true
+  },
+  "motif_types": {
+    "size_1": 2,
+    "through_2": 8,
+    "three_only": 20,
+    "through_3": 28
+  },
+  "minimal_extension_counts": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 98
+  },
+  "trajectory": [
+    {
+      "step": 0,
+      "edge_mask": 7,
+      "spin_mask": 2,
+      "edges": 3,
+      "ones": 1,
+      "graph_aut_order": 6,
+      "decorated_aut_order": 2,
+      "observer_key": "(3, 1, 1, 2, 2, 1, 0, 0, 1, 2, 0, 0, 0)"
+    },
+    {
+      "step": 1,
+      "edge_mask": 30,
+      "spin_mask": 3,
+      "edges": 4,
+      "ones": 2,
+      "graph_aut_order": 8,
+      "decorated_aut_order": 4,
+      "observer_key": "(2, 2, 1, 0, 0, 4, 1, 0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "step": 2,
+      "edge_mask": 0,
+      "spin_mask": 3,
+      "edges": 0,
+      "ones": 2,
+      "graph_aut_order": 24,
+      "decorated_aut_order": 4,
+      "observer_key": "(2, 2, 1, 0, 4, 0, 1, 0, 2, 0, 2, 0, 0)"
+    },
+    {
+      "step": 3,
+      "edge_mask": 30,
+      "spin_mask": 3,
+      "edges": 4,
+      "ones": 2,
+      "graph_aut_order": 8,
+      "decorated_aut_order": 4,
+      "observer_key": "(2, 2, 1, 0, 0, 4, 1, 0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "step": 4,
+      "edge_mask": 0,
+      "spin_mask": 3,
+      "edges": 0,
+      "ones": 2,
+      "graph_aut_order": 24,
+      "decorated_aut_order": 4,
+      "observer_key": "(2, 2, 1, 0, 4, 0, 1, 0, 2, 0, 2, 0, 0)"
+    },
+    {
+      "step": 5,
+      "edge_mask": 30,
+      "spin_mask": 3,
+      "edges": 4,
+      "ones": 2,
+      "graph_aut_order": 8,
+      "decorated_aut_order": 4,
+      "observer_key": "(2, 2, 1, 0, 0, 4, 1, 0, 0, 0, 0, 0, 0)"
+    }
+  ],
+  "hyper_trajectory": [
+    {
+      "step": 0,
+      "hyperedge_mask": 1,
+      "spin_mask": 11,
+      "hyperedges": 1,
+      "hypergraph_aut_order": 6,
+      "decorated_aut_order": 2
+    },
+    {
+      "step": 1,
+      "hyperedge_mask": 3,
+      "spin_mask": 15,
+      "hyperedges": 2,
+      "hypergraph_aut_order": 4,
+      "decorated_aut_order": 4
+    },
+    {
+      "step": 2,
+      "hyperedge_mask": 12,
+      "spin_mask": 3,
+      "hyperedges": 2,
+      "hypergraph_aut_order": 4,
+      "decorated_aut_order": 4
+    },
+    {
+      "step": 3,
+      "hyperedge_mask": 0,
+      "spin_mask": 3,
+      "hyperedges": 0,
+      "hypergraph_aut_order": 24,
+      "decorated_aut_order": 4
+    },
+    {
+      "step": 4,
+      "hyperedge_mask": 12,
+      "spin_mask": 3,
+      "hyperedges": 2,
+      "hypergraph_aut_order": 4,
+      "decorated_aut_order": 4
+    }
+  ],
+  "chosen_three_vertex_motifs": [
+    {
+      "index_zero_based": 4,
+      "colors": [
+        0,
+        0,
+        1
+      ],
+      "edges": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "index_zero_based": 8,
+      "colors": [
+        0,
+        0,
+        1
+      ],
+      "edges": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "index_zero_based": 10,
+      "colors": [
+        0,
+        1,
+        1
+      ],
+      "edges": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "index_zero_based": 13,
+      "colors": [
+        0,
+        1,
+        1
+      ],
+      "edges": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "index_zero_based": 17,
+      "colors": [
+        1,
+        1,
+        1
+      ],
+      "edges": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

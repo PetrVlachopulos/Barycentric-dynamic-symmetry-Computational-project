@@ -1,0 +1,191 @@
+{
+  "project_version": "1.0.0",
+  "research_date": "2026-11-10",
+  "files": [
+    {
+      "path": ".github/workflows/reference-tests.yml",
+      "sha256": "b493e1a17a9e05205e25640373d3125391de4da8273c615c58f0c939d6ddfd2b",
+      "bytes": 518
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "9cf9e6cc332254defd91af39f74c818b75014e60656c373a445ce8e894f6bc40",
+      "bytes": 160
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "8519acf4bf47d7e041f51717a9161e31c29dfc1ed8cfdb5c25107b8c9c586e5e",
+      "bytes": 503
+    },
+    {
+      "path": "DEPENDENCIES.md",
+      "sha256": "69150f22d1c425aa754965f122092a481070ffed00e3a0e73030d54c1c824471",
+      "bytes": 1266
+    },
+    {
+      "path": "Data/colored_graph_orbits_90.csv",
+      "sha256": "6700e4861ce18cb9e7eaef687a695690b3e43af5ac142c1f34d4d1337dffe146",
+      "bytes": 3121
+    },
+    {
+      "path": "Data/exact_macro_complement_86.csv",
+      "sha256": "d1689f739c1f554b23ddf47fc0e301ffe8a6bad99b3ececd04a7a673c6e5bcef",
+      "bytes": 4255
+    },
+    {
+      "path": "Data/exact_macro_dynamics_86.csv",
+      "sha256": "a13372a10fc045629edb359db0ba0c5adc8f1904d7052b7fea70dba2d526990d",
+      "bytes": 4258
+    },
+    {
+      "path": "Data/verified_results.json",
+      "sha256": "e7014100b615ddb313786f703a7c87493a197e58c0c958d5b1eaaa0178aee347",
+      "bytes": 4176
+    },
+    {
+      "path": "Examples/InteractiveSimulator.wl",
+      "sha256": "d73be63b9962b29260aa719d9dbcfa9c99ebd564d48ecb285e32b7f3530d93a0",
+      "bytes": 1115
+    },
+    {
+      "path": "Examples/RunNative.wls",
+      "sha256": "ed6986317e1eb802a04aa970262f62f1dfb1859e6b51ac3485791d086ba02620",
+      "bytes": 3171
+    },
+    {
+      "path": "Examples/WolframVisuals.wls",
+      "sha256": "33cac0c4fcd9cf0a7d910788003ad977904d2f465454d0dc46f1560131b7d56b",
+      "bytes": 1531
+    },
+    {
+      "path": "Kernel/DynamicBarycentric.wl",
+      "sha256": "926d0da0ebfe65c27501fc2b00e9ed9446453bef8b737109fef0f7c1286cf0c1",
+      "bytes": 6617
+    },
+    {
+      "path": "README.md",
+      "sha256": "76a961d59734157b898fb385b413c8f097ffb3055083d0d3fb34c412426a6de7",
+      "bytes": 6919
+    },
+    {
+      "path": "Results/VERIFICATION_STATUS.md",
+      "sha256": "90e14fda7d23241f939ab95e4f90af3374509834e1f64fa16b094bacfeaa0a54",
+      "bytes": 1715
+    },
+    {
+      "path": "Results/animations/01_group_changes.gif",
+      "sha256": "29dcb4f2e4baf14670fcbeab05b0a504cad34525994a51ed6552a309bf50c898",
+      "bytes": 44800
+    },
+    {
+      "path": "Results/animations/02_exact_macro_merged_cycle.gif",
+      "sha256": "944c53a50a4e1cccc9a18f942aa786f8e373288f453018f7ce1605e5158cbe5c",
+      "bytes": 53093
+    },
+    {
+      "path": "Results/figures/01_changing_automorphisms.png",
+      "sha256": "506035e41811c3675084c682ca969b05e206ea71a7c7f5df424caba8c7fd643c",
+      "bytes": 122811
+    },
+    {
+      "path": "Results/figures/02_observer_ladder.png",
+      "sha256": "a029a891fa8e69c494d3d1dfc65b9f1466c7b2e2cc862f7279e7ea645d0b0f16",
+      "bytes": 93242
+    },
+    {
+      "path": "Results/figures/03_selected_motifs.png",
+      "sha256": "b2bc54d2c11710dd58ed2f845a6df0d189914aeb4ffb805fb67b93afe1f45ff2",
+      "bytes": 54214
+    },
+    {
+      "path": "Results/figures/04_multiway_event_groupoid.png",
+      "sha256": "1f699217ac399ec7a7bcb83ed315eb3847693c8dc16bad7e00cd97e1a392454f",
+      "bytes": 95017
+    },
+    {
+      "path": "Results/figures/05_exact_macro_dynamics.png",
+      "sha256": "9d616360bb2b6342b45ae64ef5548e161d5e07d1f3234fd76130a320508b8819",
+      "bytes": 118668
+    },
+    {
+      "path": "Results/figures/06_symmetry_group_orders.png",
+      "sha256": "1c7d429912f30857b6a579603c8de924b1ed1f0c75a1888679daf2cd81566835",
+      "bytes": 99492
+    },
+    {
+      "path": "Results/figures/07_nontrivial_merged_macrocycle.png",
+      "sha256": "19a7e34a2548b39ff7eae90834b68eb7398091225ad0939265e991d36ad6f9b1",
+      "bytes": 113841
+    },
+    {
+      "path": "Results/figures/08_ternary_hypergraph_trajectory.png",
+      "sha256": "cddf61db515579df48872a1107b892efed38a5932ab8ca77da059709172192ad",
+      "bytes": 88245
+    },
+    {
+      "path": "Tests/test_reference.py",
+      "sha256": "d8d92d5d6674972bf1d1b2ff208a3fde0c8fd2f28cdf681b91c3331254515b09",
+      "bytes": 6957
+    },
+    {
+      "path": "WebDemo/index.html",
+      "sha256": "5da1556c97ba19dd5a998fbca25d26513939d828990c3751baf8b834c04eaf72",
+      "bytes": 13745
+    },
+    {
+      "path": "docs/RESEARCH_PROGRAM.md",
+      "sha256": "f0584c36e14c763614238cca654102f13fb35635e2e8cfddeb9223b3d13679d7",
+      "bytes": 11298
+    },
+    {
+      "path": "docs/application_brief.pdf",
+      "sha256": "95b8d527b08d830c7d8f5d69111e0d65cda72b5ea9dc199ad9b12f27cfa99ae3",
+      "bytes": 195333
+    },
+    {
+      "path": "docs/application_brief.tex",
+      "sha256": "52e2a1bf60c6c0d57b2b0edbf96b3fd5b3569c9b0a4fbff30e4cf01afd6adf8b",
+      "bytes": 3952
+    },
+    {
+      "path": "docs/technical_report.pdf",
+      "sha256": "43ba2a3d2e87fb3454cf9ceb3bfdfa1c0ee8691108cb5bb34abeb9909f2b1879",
+      "bytes": 774321
+    },
+    {
+      "path": "docs/technical_report.tex",
+      "sha256": "210e8d542d7ea6d5fed5af0e7713fc0de0c13958c161b98acbaf9683c40eac15",
+      "bytes": 23790
+    },
+    {
+      "path": "run_native_verification.ps1",
+      "sha256": "cecc7f8de71e827e60d6f977369bb93c43861168cf7bfa023506fd089cfa1889",
+      "bytes": 927
+    },
+    {
+      "path": "run_native_verification.sh",
+      "sha256": "1cd3ab15c27a56801dd0463351518b6c16be2bdd2c65cbccb48f1a8fb2df5fcc",
+      "bytes": 328
+    },
+    {
+      "path": "validation/build_simulator.py",
+      "sha256": "4ef923f913a729eb57a282ede897ce6cdb7f08094356114af9b842775e7e2e29",
+      "bytes": 14000
+    },
+    {
+      "path": "validation/make_figures.py",
+      "sha256": "557a41d02704d746ff22ad44ba5f4f3f324be519bcd16a9d4165e285c195f041",
+      "bytes": 9636
+    },
+    {
+      "path": "validation/reference.py",
+      "sha256": "6f1f060d375b8eb216336c3a2631d3acc3ad8d86d6a60cde168264bd9a2398dd",
+      "bytes": 12307
+    },
+    {
+      "path": "validation/verify_native.py",
+      "sha256": "9f093ce009a6b584087ed3944887376d48b60fc4bc24f0096dd66c819e1b760a",
+      "bytes": 1134
+    }
+  ]
+}
